@@ -1,0 +1,1 @@
+# Heroku-friendly-config-database.yml
